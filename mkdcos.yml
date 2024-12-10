@@ -1,8 +1,9 @@
 
 site_name: Activida 2.2.3
-theme: readthedocs
+theme:
+name: material
+
 nav:
-  - Home: index.md
+  - Home: Index.md
   - Bruno: Bruno.md
-  - Equipo: equipo.md
-  - Sitios: sitios.md
+  - Equipo: Mario.md

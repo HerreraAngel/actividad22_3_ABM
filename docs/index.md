@@ -5,7 +5,7 @@ draft : false
 ---
 
 # Lionel Messi: El Genio del Fútbol Mundial
-![messi](./img/messi.png)
+![messi](./imgMario/messi.png)
 
 Lionel Messi, conocido como "La Pulga", es ampliamente considerado uno de los mejores futbolistas de todos los tiempos. Nacido el **24 de junio de 1987** en *Rosario, Argentina*, Messi mostró un talento excepcional desde temprana edad. Su habilidad con el balón, visión de juego y capacidad para anotar goles lo han convertido en un ícono del deporte.
 

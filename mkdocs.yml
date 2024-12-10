@@ -1,16 +1,12 @@
-site_name: Activida 2.2.3
+site_name: Actividad 2.2.3
+
 theme:
-name: material
+  name: material
 
 nav:
-  - Home: Index.md
+  - Home: index.md
   - Bruno: Bruno.md
-  - Equipo: Mario.md
-
-
-
-
-
+  - Mario: mario.md
 
 
 

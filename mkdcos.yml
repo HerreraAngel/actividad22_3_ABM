@@ -1,0 +1,7 @@
+site_name: Documentación Actividad 2.2
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Equipo: equipo.md
+  - Sitios: sitios.md

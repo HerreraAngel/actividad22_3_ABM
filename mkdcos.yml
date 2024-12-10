@@ -1,9 +1,0 @@
-
-site_name: Activida 2.2.3
-theme:
-name: material
-
-nav:
-  - Home: Index.md
-  - Bruno: Bruno.md
-  - Equipo: Mario.md

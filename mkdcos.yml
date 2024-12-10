@@ -1,7 +1,8 @@
-site_name: Documentación Actividad 2.2
-theme:
-  name: material
+
+site_name: Activida 2.2.3
+theme: readthedocs
 nav:
   - Home: index.md
+  - Bruno: Bruno.md
   - Equipo: equipo.md
   - Sitios: sitios.md
